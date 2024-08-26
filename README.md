@@ -1,3 +1,4 @@
+fork from https://github.com/lupalab/NRTSI
 # NRTSI
 This is the official repository of the paper [NRTSI: Non-Recurrent Time Series Imputation](https://arxiv.org/abs/2102.03340)
 
